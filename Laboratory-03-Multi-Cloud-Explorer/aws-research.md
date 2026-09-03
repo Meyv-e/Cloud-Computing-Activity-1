@@ -42,10 +42,5 @@ Many companies use AWS for websites and mobile applications, storing and backing
 
 7. Screenshot
 
-
-
-
-Figure 1. AWS official homepage.
-
-*Figure 1. AWS official homepage.*
+![AWS Homepage](screenshots/aws-homepage.png)
 
