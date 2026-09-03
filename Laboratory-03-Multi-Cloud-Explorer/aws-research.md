@@ -40,9 +40,12 @@ The **AWS Management Console** is a website where users can access and manage di
 
 Many companies use AWS for websites and mobile applications, storing and backing up data, hosting databases, developing software, disaster recovery, data analysis, and other large business applications. Companies can also use several AWS services together to create systems that are reliable, available, and able to handle different amounts of workload.
 
-## 7. Screenshot
+7. Screenshot
 
-[AWS Homepage](screenshots/aws-homepage.png)
+
+
+
+Figure 1. AWS official homepage.
 
 *Figure 1. AWS official homepage.*
 
