@@ -42,7 +42,7 @@ Many companies use Azure to host applications, run Windows Server workloads, man
 
 ## 7. Screenshot
 
-[Microsoft Azure Homepage](https://chatgpt.com/c/screenshots/azure-homepage.png)
+![Microsoft Azure Homepage](screenshots/azure-homepage.png)
 
 *Figure 1. Microsoft Azure official homepage.*
 
