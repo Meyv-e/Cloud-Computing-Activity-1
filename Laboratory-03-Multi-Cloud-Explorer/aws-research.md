@@ -42,7 +42,7 @@ Many companies use AWS for websites and mobile applications, storing and backing
 
 ## 7. Screenshot
 
-[AWS Homepage](https://chatgpt.com/c/screenshots/aws-homepage.png)
+[AWS Homepage](screenshots/aws-homepage.png)
 
 *Figure 1. AWS official homepage.*
 
