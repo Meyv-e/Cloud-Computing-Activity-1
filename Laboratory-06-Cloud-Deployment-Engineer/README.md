@@ -14,7 +14,7 @@ This laboratory activity focuses on deploying a multi-tier private cloud storage
 - Practice Infrastructure as Code (IaC).
 
 ## Commands Executed
-
+```bash
 mkdir nextcloud-deployment
 cd nextcloud-deployment
 nano docker-compose.yml
